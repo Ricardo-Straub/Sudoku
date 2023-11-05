@@ -5,4 +5,5 @@ Sucht man sich einer der Merhspieler Modi aus, besitzt jeder einen Score. Es dar
 Aber man darf hoechsten fuenf mal hintereinander richtig raten, bis dann trotz richtigem raten der naechste Spieler dran ist. 
 Jedes mal wenn man richtig geraten hat wird die jeweilige Zahl zum Score des jeweiligen Spielers addiert. 
 Gewinner ist derjenige mit dem hoechsten Score am Ende.
+
 ![SudokuRec2](https://github.com/Ricardo-Straub/Sudoku/assets/108030615/f93686f9-01b9-46ef-88a4-448ca9558227)
