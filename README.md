@@ -1,9 +1,8 @@
 # Sudoku
-Mehrspieler Sudoku Spiel, das man bis zu viert lokal am selben PC spielen kann. Zu beginn wird entschieden, mit wie vielen Spieler man spielen moechte. Waehlt man den einzel Spieler Modus laesst sich das Spiel wie ein regulares Sudoku spiel spielen.
-Es wird eine Matrix erstellt und sciher gestellt, dass es auch nur eine Loesung zur jeweiligen Matrix gibt. Ausserdem wird ueberprueft ob die Matrix zu leicht ist (check). 
-Sucht man sich einer der Merhspieler Modi aus, besitzt jeder einen Score. Es darf so oft hinterienander gerraten werdenn, bis man einen Fehler macht. Danach ist der naechste Spieler an der Reihe.
-Aber man darf hoechsten fuenf mal hintereinander richtig raten, bis dann trotz richtigem raten der naechste Spieler dran ist. 
-Jedes mal wenn man richtig geraten hat wird die jeweilige Zahl zum Score des jeweiligen Spielers addiert. 
-Gewinner ist derjenige mit dem hoechsten Score am Ende.
+Ein Mehrspieler-Sudoku-Spiel, das lokal am selben PC von bis zu vier Spielern gespielt werden kann. Zu Beginn entscheidet jeder Spieler, mit wie vielen Teilnehmern er spielen möchte. Im Einzelspielermodus funktioniert das Spiel wie ein gewöhnliches Sudoku-Spiel. Eine Sudoku-Matrix wird generiert und sichergestellt, dass es nur eine Lösung für diese Matrix gibt. Zudem wird überprüft, ob die Matrix nicht zu einfach ist.
+
+Im Mehrspielermodus verfügt jeder Spieler über einen Punktestand. Die Spieler können abwechselnd so oft raten, wie sie möchten, solange sie die richtige Lösung finden. Nach einem Fehler ist der nächste Spieler an der Reihe. Jedoch ist es einem Spieler nur gestattet, höchstens fünfmal in Folge richtig zu raten, bevor der nächste Spieler an der Reihe ist, unabhängig davon, ob die Antwort richtig ist oder nicht.
+
+Jedes Mal, wenn ein Spieler korrekt rät, wird die entsprechende Zahl zu seinem Punktestand hinzugefügt. Der Gewinner ist der Spieler mit dem höchsten Punktestand am Ende des Spiels.
 
 ![SudokuRec2](https://github.com/Ricardo-Straub/Sudoku/assets/108030615/f93686f9-01b9-46ef-88a4-448ca9558227)
