@@ -2,6 +2,8 @@
 
 A local Sudoku game written in C++ with a Qt graphical interface. One to four people can play on the same computer, taking turns to fill in a shared puzzle and earn points for correct answers. This is a university course project.
 
+![SudokuRec2](https://github.com/Ricardo-Straub/Sudoku/assets/108030615/f93686f9-01b9-46ef-88a4-448ca9558227)
+
 ## Gameplay
 
 - Choose the number of players and play on a shared Sudoku board.
